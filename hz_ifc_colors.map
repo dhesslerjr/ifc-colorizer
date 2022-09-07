@@ -1,0 +1,10 @@
+[
+    {"inval":"IFCCOLOURRGB($,1.0000000,1.0000000,0.1000000)","outval":"IFCCOLOURRGB($,0.8705882,0.8039216,0.4705882)","material":"CLT - Spruce - Hasslacher"},
+    {"inval":"IFCCOLOURRGB($,0.8039216,0.3764706,0.0000000)","outval":"IFCCOLOURRGB($,0.4784314,0.4078431,0.0509804)","material":"Nature Hemp Insulation"},
+    {"inval":"IFCCOLOURRGB($,1.0000000,0.8392157,0.0000000)","outval":"IFCCOLOURRGB($,0.5882353,0.5098039,0.1176471)","material":"Steico - universal Dry"},
+    {"inval":"IFCCOLOURRGB($,1.0000000,1.0000000,0.0000000)","outval":"IFCCOLOURRGB($,0.8117647,0.7450980,0.4117647)","material":"SPF"},
+    {"inval":"IFCCOLOURRGB($,0.0000000,1.0000000,1.0000000)","outval":"IFCCOLOURRGB($,0.4509804,0.1686275,0.1176471)","material":"5/8\" Red ZIP Sheathing"},
+    {"inval":"IFCCOLOURRGB($,0.0000000,0.5098039,1.0000000)","outval":"IFCCOLOURRGB($,0.4196078,0.3803922,0.3803922)","material":"Steel"},
+    {"inval":"IFCCOLOURRGB($,0.7058824,0.1176471,0.1176471)","outval":"IFCCOLOURRGB($,0.8705882,0.8039216,0.4705882)","material":"GLULAM - Spruce - Hasslacher"} 
+]
+	
