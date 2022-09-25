@@ -1,0 +1,10 @@
+/venv/
+/bin/
+
+/certifi*/
+/charset_normalizer*/
+/idna*/
+/requests*/
+/urllib3*/
+
+*.zip
