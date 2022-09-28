@@ -10,7 +10,7 @@ on:
     inputs:
       function_name:
         description: 'Function name (IfcColorizerTest, IfcColorizerStaging, IfcColorizerProd)'
-        required: 'True',
+        required: true,
         default: 'IfcColorizerTest'
 
 jobs:
