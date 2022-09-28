@@ -5,13 +5,12 @@ on:
     branches: [ "main" ]
   pull_request:
     branches: [ "main" ]
-
-  # workflow_dispatch:
-  #   inputs:
-  #     function_name:
-  #       description: 'Function name (IfcColorizerTest, IfcColorizerStaging, IfcColorizerProd)'
-  #       required: true,
-  #       default: 'IfcColorizerTest'
+  workflow_dispatch:
+    inputs:
+      function_name:
+        description: 'Function name (IfcColorizerTest, IfcColorizerStaging, IfcColorizerProd)'
+        required: true,
+        default: 'IfcColorizerTest'
 
 jobs:
   build:
